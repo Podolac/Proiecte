@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\barbut\barbut\obj\Debug\barbut.csprojAssemblyReference.cache
+C:\Users\User\source\repos\barbut\barbut\obj\Debug\barbut.Form1.resources
+C:\Users\User\source\repos\barbut\barbut\obj\Debug\barbut.Properties.Resources.resources
+C:\Users\User\source\repos\barbut\barbut\obj\Debug\barbut.csproj.GenerateResource.cache
+C:\Users\User\source\repos\barbut\barbut\bin\Debug\barbut.exe.config
+C:\Users\User\source\repos\barbut\barbut\bin\Debug\barbut.exe
+C:\Users\User\source\repos\barbut\barbut\bin\Debug\barbut.pdb
+C:\Users\User\source\repos\barbut\barbut\obj\Debug\barbut.exe
+C:\Users\User\source\repos\barbut\barbut\obj\Debug\barbut.pdb
+D:\chesti leptop vechi\barbut\barbut\bin\Debug\barbut.exe.config
+D:\chesti leptop vechi\barbut\barbut\bin\Debug\barbut.exe
+D:\chesti leptop vechi\barbut\barbut\bin\Debug\barbut.pdb
+D:\chesti leptop vechi\barbut\barbut\obj\Debug\barbut.csproj.AssemblyReference.cache
+D:\chesti leptop vechi\barbut\barbut\obj\Debug\barbut.Form1.resources
+D:\chesti leptop vechi\barbut\barbut\obj\Debug\barbut.Properties.Resources.resources
+D:\chesti leptop vechi\barbut\barbut\obj\Debug\barbut.csproj.GenerateResource.cache
+D:\chesti leptop vechi\barbut\barbut\obj\Debug\barbut.csproj.CoreCompileInputs.cache
+D:\chesti leptop vechi\barbut\barbut\obj\Debug\barbut.exe
+D:\chesti leptop vechi\barbut\barbut\obj\Debug\barbut.pdb

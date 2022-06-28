@@ -1,0 +1,27 @@
+Arhitectura sistemului informatic.//pt dezvoltare daca ar fi 10 work form home 
+
+Pentru ca aplicatia informatica sa asigure o prezenta continua si o functionare optima in Internet, aceasta va fi instalata intr-un mediu cloud computing de tip IaaS/PaaS/SaaS public.
+Pentru dezvoltarea aplicatiei a fost creat un mediu de dezvoltare si testare in arhitectura cloud computing IaaS, format din:
+    - 1 server web/aplicatie in format de server virtual/container
+    - 1 server baze de date in format de server virtual/container
+    - 1 computere desktop / laptop pentru dezvoltatori, in format de echipament fizic
+    - 1 computer desktop / laptop pentru tester
+    - 1 computer testare securitate cibernetica
+    - 4 licente mediu de dezvoltare aplicatii web/desktop.
+Serverele virtuale vor avea alocata urmatoarea configuratie:
+    - 1 procesoare, 8 cores/procesor
+    - 16 GB RAM
+    - 1 TB storage SSD
+    - 1 conexiune 1 Gbps LAN.
+
+Fiind bazat pe o infrastructura cloud computing publica, sistemul informatic va functiona permanent, in regim 24/7/365.
+Aplicația informatica va avea o arhitectură modulară ce va favoriza dezvoltarea ulterioară și adăugarea facilă de noi funcționalități.
+Pe parcursul dezvoltării aplicației, vor fi adaugate functionalitati de accesibilitate web precum modificarea contrastelor, scheme grafice, modificarea dimensiunii fonturilor, etc (standardul W3C WCAG 2.0 level A), pentru a face posibilă utilizarea aplicației si de către persoane cu dizabilități usoare motorii si senzoriale.
+
+Pentru ca aplicația să fie utilizata de cat mai multe persoane intr-un mod confortabil si cat mai familiar acestora, vor fi implementate funcționalități de multilingvism astfel incat interfata UI a aplicației să poata utiliza un numar de / peste ... limbi de circulatia nationala/internationala ce pot fi schimbate dintr-un singur click.
+
+Securitatea sistemului informatic va fi asigurat pe urmatoarele paliere:
+    - la nivel fizic: accesul la serverele fizice este limitat si controlat la nivelul furnizorului de servicii cloud computing
+    - la nivelul retelei de date: accesul prin reteaua de date la echipamentele IT este limitat si controlat prin echipamente firewall, echipamente IDS si alte echipamente de monitorizare si filtrare a traficului de date.
+    - la nivelul serverelor/container-elor virtuale: securitatea la nivelul sistemului de operare si componentelor de infrastructura software (server web, server de aplicatie, baze de date, storage) este asigurata prin configurarea atenta a acestora si utilizarea de aplicatii software antimalware.
+    - la nivelul aplicatiei informatice: securitatea la nivel de aplicatie are la baza filtrarea tuturor interactiunilor cu utilizatorul si limitarea accesarii unor elemente precum sesiunea de lucru, link-ul direct catre fisiere, apelarea frame-urilor, etc. Aceste actiuni se realizeaza la nivel de cod al aplicatiei.
