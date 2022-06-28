@@ -1,0 +1,12 @@
+Scor obtinut:
+LIE: 44.813
+EXTROVERSIA: 48.407
+NEUROTICISM: 53.210
+PSIHOTICISM: 67.196
+
+Scoruriel T - standardizate
+  <30	rezultate extrem de mici
+30-40	rezultate mici
+40-60	rezultate medii
+60-70	rezultate mari
+  >70	rezultate foarte mari
